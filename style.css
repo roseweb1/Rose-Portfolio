@@ -47,5 +47,9 @@ nav{display: flex;flex-wrap: wrap;justify-content: center;
 nav a{margin: 0;}
 #about{flex-direction: column;text-align: center;}
 #about img{width: 18opx;}
+#contact a{display: inline-block;background-color: #25D366;
+color: white;padding: 12px 25px;margin-top: 15px;
+border-radius:8px;text-decoration: none;font-weight: bold;}
+#contact a :hover{background-color: #128C7E;}
 
 
